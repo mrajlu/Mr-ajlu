@@ -1,0 +1,4 @@
+import shutil
+
+# Move the zip file to a more accessible location for uploading
+shutil.copy("/mnt/data/quotex_ai_signal_app_mr_ajlu.zip", "/mnt/data/quotex_ai_signal_app_mr_ajlu_for_drive.zip")
